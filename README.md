@@ -1,6 +1,7 @@
 # Instagram mask with Racing game
 
 Game inside of Instagram mask
+After almost a year of public use it was shown on stories more than 500'000 times. Uses FaceTracking module from SparkAR - app from FaceBook. 
 
 [📺 YOUTUBE LINK](https://youtu.be/mCEdJHjBtEQ)
 
